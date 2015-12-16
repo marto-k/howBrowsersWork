@@ -1,6 +1,5 @@
 #howBrowsersWork
 ---
-https://arvindr21.github.io/howBrowserWorks/#/
 ##Explanation
 ---
 How the parsing of urls to get information works.*behind the scenes*.
@@ -13,7 +12,7 @@ Lastly  **DOM**  which is used to build a tree consisting of all material for a 
 
 ##Parse, Render, Layout & Paint
 ---
-See image in  <https://arvindr21.github.io/howBrowserWorks/#/13>
+See image in  <https://arvindr21.github.io/howBrowserWorks/imgs/dns/8.png>
 
 ###This involves four steps
 -Parsing html to construct the DOM tree

@@ -16,15 +16,18 @@ See image in  <https://arvindr21.github.io/howBrowserWorks/imgs/dns/8.png>
 
 ###This involves four steps
 ---
--Parsing html to construct the DOM tree
+1-Parsing html to construct the DOM tree
 
 
--Render tree construction
+2-Render tree construction
 
 
--Layout of the render tree
+3-Layout of the render tree
 
 
--Painting the render tree
+4-Painting the render tree
 
 
+###Parsing html to construct the DOM tree
+
+Here 

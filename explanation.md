@@ -16,16 +16,9 @@ Lastly  **DOM**  which is used to build a tree consisting of all material for a 
 See image in  <https://arvindr21.github.io/howBrowserWorks/#/13>
 
 ###This involves four steps
-
-*Parsing html to construct the DOM tree
-
-
--Render tree construction
-
-
-+Layout of the render tree
-
-
-*Painting the render tree
+..1.Parsing html to construct the DOM tree
+..2.Render tree construction
+..3.Layout of the render tree
+..4.Painting the render tree
 
 

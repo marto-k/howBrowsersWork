@@ -58,7 +58,8 @@ https://arvindr21.github.io/howBrowserWorks/imgs/render3.png
 After you determine the position and size of the render tree the layout in the *DOM* changes.
 
 ###Painting the render tree
----This is the final step where you furnish the characters in the render tree.This can be don e using script language .
+---
+This is the final step where you furnish the characters in the render tree.This can be don e using script language .
 You can make use of paintslow(); and paintfast(); which changes the speeds and uotlook of render tree.
 
 

@@ -3,9 +3,9 @@
 This is a writeup that describes how the information on websites is obtained.These procedures  are classified into four namely...
 
 
-1.Parsing html to construct the *DOM tree*
+1.Parsing html to construct the *dom tree*
 
-2-*Render tree* construction
+2-*render tree* construction
 
 3-Layout of the *render tree*
 

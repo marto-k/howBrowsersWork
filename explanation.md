@@ -15,6 +15,7 @@ Lastly  **DOM**  which is used to build a tree consisting of all material for a 
 See image in  <https://arvindr21.github.io/howBrowserWorks/imgs/dns/8.png>
 
 ###This involves four steps
+_
 -Parsing html to construct the DOM tree
 
 
